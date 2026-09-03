@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blake — Toda a sua pesquisa em um só lugar</title>
+  <meta name="description" content="Blake reúne em uma única ferramenta os PDFs que você lê, as referências que coleciona, as anotações que faz e o texto que precisa entregar. Menos abas, mais pesquisa." />
+  <link rel="canonical" href="https://vfermino.github.io/blake-site/" />
+
+  <!-- Open Graph / LinkedIn -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://vfermino.github.io/blake-site/" />
+  <meta property="og:title" content="Blake — Toda a sua pesquisa em um só lugar" />
+  <meta property="og:description" content="PDFs, referências, anotações e o manuscrito em uma única ferramenta. Menos abas, mais pesquisa." />
+  <meta property="og:image" content="https://vfermino.github.io/blake-site/assets/og-image.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:locale" content="pt_BR" />
+  <meta property="og:locale:alternate" content="en_US" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Blake — Toda a sua pesquisa em um só lugar" />
+  <meta name="twitter:description" content="PDFs, referências, anotações e o manuscrito em uma única ferramenta. Menos abas, mais pesquisa." />
+  <meta name="twitter:image" content="https://vfermino.github.io/blake-site/assets/og-image.png" />
+
+  <link rel="icon" type="image/png" href="assets/icon.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="#" class="brand">
+        <img src="assets/icon.png" alt="Blake" class="brand-icon" />
+        <span class="brand-name">BLAKE</span>
+        <span class="brand-tag">ACADEMIC&nbsp;IDE</span>
+      </a>
+      <nav class="header-nav">
+        <a href="#features" data-pt="Recursos" data-en="Features">Recursos</a>
+        <a href="#compare" data-pt="Comparação" data-en="Compare">Comparação</a>
+        <a href="#manifesto" data-pt="Manifesto" data-en="Manifesto">Manifesto</a>
+      </nav>
+      <div class="header-actions">
+        <button id="theme-toggle" class="chip-btn" aria-label="Alternar tema" title="Tema claro/escuro">
+          <span class="theme-dot"></span><span id="theme-label">DARK</span>
+        </button>
+        <button id="lang-toggle" class="chip-btn chip-btn-accent">EN</button>
+        <a href="#waitlist" class="btn btn-primary btn-sm" data-pt="Entrar na lista" data-en="Join waitlist">Entrar na lista</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <!-- HERO -->
+    <section class="hero">
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <p class="hero-kicker mono">// <span data-pt="PARA PESQUISADORES · ALPHA PÚBLICA" data-en="FOR RESEARCHERS · PUBLIC ALPHA">PARA PESQUISADORES · ALPHA PÚBLICA</span></p>
+          <h1 data-pt="Toda a sua pesquisa. Um só lugar." data-en="All your research. One place.">Toda a sua pesquisa. Um só lugar.</h1>
+          <p class="hero-sub" data-pt="Os PDFs que você lê, as referências que coleciona, as anotações que faz e o texto que precisa entregar — hoje vivem espalhados em quatro ferramentas. O Blake reúne tudo em uma só, para você passar menos tempo organizando e mais tempo pesquisando." data-en="The PDFs you read, the references you collect, the notes you take, and the text you need to submit — today they live scattered across four tools. Blake brings them together, so you spend less time organizing and more time researching.">
+            Os PDFs que você lê, as referências que coleciona, as anotações que faz e o texto que precisa entregar — hoje vivem espalhados em quatro ferramentas. O Blake reúne tudo em uma só, para você passar menos tempo organizando e mais tempo pesquisando.
+          </p>
+          <div class="hero-ctas">
+            <a href="#waitlist" class="btn btn-primary" data-pt="Entrar na lista de espera" data-en="Join the waitlist">Entrar na lista de espera</a>
+            <a href="#features" class="btn btn-ghost" data-pt="Ver como funciona ↓" data-en="See how it works ↓">Ver como funciona ↓</a>
+          </div>
+          <p class="hero-note mono" data-pt="anotações em ordem · referências no formato certo · do rascunho à entrega" data-en="notes in order · references done right · from draft to submission">anotações em ordem · referências no formato certo · do rascunho à entrega</p>
+        </div>
+
+        <!-- Mock do app em HTML/CSS puro -->
+        <div class="hero-mock" aria-hidden="true">
+          <div class="mock-titlebar">
+            <span class="mock-dot"></span><span class="mock-dot"></span><span class="mock-dot"></span>
+            <span class="mock-title mono">capítulo_01.md — blake</span>
+          </div>
+          <div class="mock-body">
+            <div class="mock-sidebar">
+              <div class="mock-sb-item active mono">02_capitulo1.md</div>
+              <div class="mock-sb-item mono">referencias.bib</div>
+              <div class="mock-sb-item mono">smith2024.pdf</div>
+              <div class="mock-sb-item mono">notas/</div>
+            </div>
+            <div class="mock-editor">
+              <p class="mock-h1">A construção do método</p>
+              <p>A hipótese central dialoga com a tradição <span class="mock-anchor" title="âncora PDF">smith2024.pdf · p. 147 ¶3</span>…</p>
+              <p class="mock-cite">A síntese recente <span class="cite-key mono">[^souza2023]</span> confirma a tese.</p>
+              <div class="mock-biblio">
+                <p class="mono biblio-title">── Referências (auto) ──</p>
+                <p class="mono">SOUZA, M. <em>Metodologia…</em> 2023.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FEATURES -->
+    <section id="features" class="section">
+      <div class="container">
+        <h2 class="section-title" data-pt="Menos abas. Mais pesquisa." data-en="Fewer tabs. More research.">Menos abas. Mais pesquisa.</h2>
+        <p class="section-sub" data-pt="Cada recurso do Blake existe para encurtar o caminho entre ler, anotar e escrever — não para exibir tecnologia." data-en="Every Blake feature exists to shorten the path between reading, note-taking, and writing — not to showcase technology."></p>
+        <div class="features-grid">
+          <div class="feature-card">
+            <span class="feature-num mono">01</span>
+            <h3 data-pt="Anote sem fricção" data-en="Take notes without friction">Anote sem fricção</h3>
+            <p data-pt="Escreva com a facilidade de um editor de texto moderno e mantenha tudo em arquivos simples que você abre em qualquer lugar, daqui a dez anos." data-en="Write with the ease of a modern text editor and keep everything in plain files you can open anywhere, ten years from now."></p>
+          </div>
+          <div class="feature-card">
+            <span class="feature-num mono">02</span>
+            <h3 data-pt="Referências no formato certo, sempre" data-en="References in the right format, always">Referências no formato certo, sempre</h3>
+            <p data-pt="Cite enquanto escreve e a bibliografia se monta sozinha — em ABNT, Chicago ou MLA. Sem formatar citação uma a uma na véspera da entrega." data-en="Cite as you write and the bibliography builds itself — in ABNT, Chicago, or MLA. No more formatting citations one by one the night before submission."></p>
+          </div>
+          <div class="feature-card">
+            <span class="feature-num mono">03</span>
+            <h3 data-pt="Do PDF ao texto em um clique" data-en="From PDF to text in one click">Do PDF ao texto em um clique</h3>
+            <p data-pt="Destaque um trecho do artigo e ele vira uma anotação vinculada à página exata. Quando for escrever, a fonte está a um clique — nunca mais “onde eu li isso?”." data-en="Highlight a passage and it becomes a note linked to the exact page. When you write, the source is one click away — no more “where did I read that?”."></p>
+          </div>
+          <div class="feature-card">
+            <span class="feature-num mono">04</span>
+            <h3 data-pt="Zotero e Mendeley, conectados" data-en="Zotero and Mendeley, connected">Zotero e Mendeley, conectados</h3>
+            <p data-pt="Não precisa migrar sua biblioteca. O Blake acompanha sua coleção BibTeX e mantém as citações do manuscrito sincronizadas com o que você já usa." data-en="No need to migrate your library. Blake follows your BibTeX collection and keeps manuscript citations in sync with what you already use."></p>
+          </div>
+          <div class="feature-card">
+            <span class="feature-num mono">05</span>
+            <h3 data-pt="Um revisor embutido" data-en="A built-in reviewer">Um revisor embutido</h3>
+            <p data-pt="Parágrafo longo, voz passiva, citação solta, repetição: o Blake aponta o que um bom orientador apontaria — e deixa a decisão final com você." data-en="Long paragraphs, passive voice, orphan citations, repetition: Blake points out what a good advisor would — and leaves the final call to you."></p>
+          </div>
+          <div class="feature-card">
+            <span class="feature-num mono">06</span>
+            <h3 data-pt="Nada do que você escreveu se perde" data-en="Nothing you wrote is ever lost">Nada do que você escreveu se perde</h3>
+            <p data-pt="Cada versão do capítulo fica guardada. Compare o texto de hoje com o do mês passado e volte atrás quando precisar — sem medo de sobrescrever." data-en="Every chapter version is kept. Compare today's text with last month's and go back whenever you need — without fear of overwriting."></p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- COMPARE -->
+    <section id="compare" class="section section-alt">
+      <div class="container">
+        <h2 class="section-title" data-pt="Um ambiente, não quatro abas" data-en="One environment, not four tabs">Um ambiente, não quatro abas</h2>
+        <p class="section-sub" data-pt="Escrever no Word, gerenciar referências no Zotero, anotar no Obsidian, formatar no Overleaf. O fluxo acadêmico típico fica inteiro em uma janela só." data-en="Writing in Word, managing references in Zotero, taking notes in Obsidian, formatting in Overleaf. The typical academic workflow fits in a single window."></p>
+        <div class="table-wrap">
+          <table class="compare-table">
+            <thead>
+              <tr>
+                <th></th>
+                <th>Blake</th>
+                <th>Word + Zotero</th>
+                <th>Obsidian</th>
+                <th>Overleaf</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td data-pt="Escrever o manuscrito" data-en="Writing the manuscript">Escrever o manuscrito</td>
+                <td class="yes">●</td><td class="partial">◐</td><td class="partial">◐</td><td class="partial">◐</td>
+              </tr>
+              <tr>
+                <td data-pt="Gerenciar referências" data-en="Managing references">Gerenciar referências</td>
+                <td class="yes">●</td><td class="partial">◐</td><td class="no">○</td><td class="yes">●</td>
+              </tr>
+              <tr>
+                <td data-pt="Ler e anotar os PDFs" data-en="Reading and annotating PDFs">Ler e anotar os PDFs</td>
+                <td class="yes">●</td><td class="no">○</td><td class="partial">◐</td><td class="no">○</td>
+              </tr>
+              <tr>
+                <td data-pt="Anotações ligadas às fontes" data-en="Notes linked to sources">Anotações ligadas às fontes</td>
+                <td class="yes">●</td><td class="no">○</td><td class="partial">◐</td><td class="no">○</td>
+              </tr>
+              <tr>
+                <td data-pt="Tudo em uma só janela" data-en="All in a single window">Tudo em uma só janela</td>
+                <td class="yes">●</td><td class="no">○</td><td class="no">○</td><td class="no">○</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="table-legend mono">● <span data-pt="nativo" data-en="native">nativo</span> · ◐ <span data-pt="parcial/via plugins" data-en="partial/via plugins">parcial/via plugins</span> · ○ <span data-pt="ausente" data-en="absent">ausente</span></p>
+      </div>
+    </section>
+
+    <!-- MANIFESTO -->
+    <section id="manifesto" class="section manifesto">
+      <div class="container manifesto-inner">
+        <p class="mono manifesto-kicker">MANIFESTO</p>
+        <blockquote>
+          <p data-pt="Uma pesquisa leva anos. Suas ferramentas não podem virar obstáculo. No Blake, cada anotação e cada capítulo vivem em arquivos abertos que continuam seus — amanhã, depois da defesa e daqui a dez anos." data-en="Research takes years. Your tools must not become the obstacle. In Blake, every note and every chapter lives in open files that remain yours — tomorrow, after the defense, and ten years from now.">
+            Uma pesquisa leva anos. Suas ferramentas não podem virar obstáculo. No Blake, cada anotação e cada capítulo vivem em arquivos abertos que continuam seus — amanhã, depois da defesa e daqui a dez anos.
+          </p>
+        </blockquote>
+      </div>
+    </section>
+
+    <!-- WAITLIST -->
+    <section id="waitlist" class="section section-alt waitlist">
+      <div class="container waitlist-inner">
+        <h2 class="section-title" data-pt="Um só lugar para toda a sua pesquisa" data-en="One place for all your research">Um só lugar para toda a sua pesquisa</h2>
+        <p class="section-sub" data-pt="Entre na lista para acessar a alpha. O Core do Blake será gratuito para sempre; módulos opcionais para quem precisa de mais serão vendidos como licença perpétua — sem assinatura." data-en="Join the list to access the alpha. Blake's Core will be free forever; optional modules for those who need more are sold as a perpetual license — no subscription."></p>
+        <div class="hero-ctas" style="justify-content: center;">
+          <a href="https://tally.so/r/J94bpX" target="_blank" rel="noopener" class="btn btn-primary" data-pt="Quero acesso" data-en="Get access">Quero acesso</a>
+        </div>
+        <p class="waitlist-note mono" data-pt="sem spam · apenas avisos de release" data-en="no spam · release announcements only">sem spam · apenas avisos de release</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <img src="assets/icon.png" alt="" class="brand-icon" />
+        <span class="mono">BLAKE ACADEMIC IDE</span>
+      </div>
+      <nav class="footer-links">
+        <!-- TODO: preencher URLs reais -->
+        <a href="https://github.com/vfermino" data-pt="GitHub" data-en="GitHub">GitHub</a>
+        <a href="https://www.linkedin.com/in/victorfermino/" data-pt="LinkedIn" data-en="LinkedIn">LinkedIn</a>
+        <a href="mailto:victors@alumni.usp.br" data-pt="Contato" data-en="Contact">Contato</a>
+      </nav>
+      <p class="footer-copy mono">© 2026 Blake · <span data-pt="Feito localmente, como sua pesquisa" data-en="Built locally, like your research">Feito localmente, como sua pesquisa</span></p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
