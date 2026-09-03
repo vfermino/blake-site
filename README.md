@@ -12,12 +12,15 @@ python3 -m http.server 8080
 
 ## Deploy (GitHub Pages)
 
+O site vive no repo público **vfermino/blake-site** e é servido em https://vfermino.github.io/blake-site/
+
+Para publicar alterações feitas nesta pasta:
+
 ```bash
-cd site
-git subtree push --prefix site origin gh-pages   # ou use a action oficial de Pages
+./deploy.sh "mensagem do commit"   # na primeira vez, clona o repo de deploy sozinho
 ```
 
-Alternativa mais simples: nas configurações do repositório, aponte o GitHub Pages para a pasta `/site` da branch `main`. Netlify/Vercel: apenas selecione a pasta `site/` como diretório de publicação (sem comando de build).
+O script sincroniza o conteúdo desta pasta para `/tmp/blake-site` (clone do repo público), commita e faz o push. O Pages publica em ~1 minuto.
 
 ## Antes de publicar, troque os placeholders
 
