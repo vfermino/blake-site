@@ -270,7 +270,7 @@ body.light .demo-media { box-shadow: 0 20px 56px rgba(0, 0, 0, 0.1); }
 
 .demo-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(3, 1fr);
   gap: 20px;
   margin-top: 20px;
 }
