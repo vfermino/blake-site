@@ -1,47 +1,47 @@
 {
-  "version": "0.1.1-beta.2",
-  "notes": "Consulte o changelog para ver as melhorias da versão v0.1.1-beta.2.",
-  "pub_date": "2026-09-14T21:51:03.436Z",
+  "version": "0.1.1-beta.3",
+  "notes": "Consulte o changelog para ver as melhorias da versão v0.1.1-beta.3.",
+  "pub_date": "2026-09-14T23:48:37.177Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFI2V1haa1FrVEF2L0FwSXZYcjNmMVdsKzhRRTJzTk41RXRXcGpLNEVHZEUzT0UvTVhOUGZSWFE2NWxWM2RzUGlOcDNGM1BuYktLcEE0cklma093dEdZMXp1Vk13cVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDIyMzEzCWZpbGU6Qmxha2UgSURFLmFwcC50YXIuZ3oKanB2S2dWdHF0SCsza2lndDVYSGE1amRDNXpiMDcyUnBIQkFaVUE2SXY3L3ptNnhaMGUzTklMbmxWdmdNeU1Db0psUzhXQllKNzNJcGxZb1RVMzA4QUE9PQo=",
-      "url": "https://github.com/vfermino/blake-site/releases/download/v0.1.1-beta.2/Blake.IDE_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFI2V1haa1FrVEJKWlVzSGQ0bTBYMmNITXMwdmNqZ0p6NWQ4SzdTQllManR2b0FNbVBVaXZOcHVBNjI2S0tOWm1JOXcvQ2dnVjNSMVk4Q0MwemQ5dG1FdmI1NFBHbVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDI5MzQ4CWZpbGU6Qmxha2UgSURFLmFwcC50YXIuZ3oKQXh1TnZoTVVMNWxQcEpId0JTZzM4UkpJWXVvSVRlZm9JV2pydnJLZWRZcTBtOWcxeGlOa3NkcmJHSEQ5NTFVMmhxZUhaUFR4N2hORlJrOGJncXI5RHc9PQo=",
+      "url": "https://github.com/vfermino/blake-site/releases/download/v0.1.1-beta.3/Blake.IDE_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFI2V1haa1FrVEF2L0FwSXZYcjNmMVdsKzhRRTJzTk41RXRXcGpLNEVHZEUzT0UvTVhOUGZSWFE2NWxWM2RzUGlOcDNGM1BuYktLcEE0cklma093dEdZMXp1Vk13cVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDIyMzEzCWZpbGU6Qmxha2UgSURFLmFwcC50YXIuZ3oKanB2S2dWdHF0SCsza2lndDVYSGE1amRDNXpiMDcyUnBIQkFaVUE2SXY3L3ptNnhaMGUzTklMbmxWdmdNeU1Db0psUzhXQllKNzNJcGxZb1RVMzA4QUE9PQo=",
-      "url": "https://github.com/vfermino/blake-site/releases/download/v0.1.1-beta.2/Blake.IDE_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFI2V1haa1FrVEJKWlVzSGQ0bTBYMmNITXMwdmNqZ0p6NWQ4SzdTQllManR2b0FNbVBVaXZOcHVBNjI2S0tOWm1JOXcvQ2dnVjNSMVk4Q0MwemQ5dG1FdmI1NFBHbVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDI5MzQ4CWZpbGU6Qmxha2UgSURFLmFwcC50YXIuZ3oKQXh1TnZoTVVMNWxQcEpId0JTZzM4UkpJWXVvSVRlZm9JV2pydnJLZWRZcTBtOWcxeGlOa3NkcmJHSEQ5NTFVMmhxZUhaUFR4N2hORlJrOGJncXI5RHc9PQo=",
+      "url": "https://github.com/vfermino/blake-site/releases/download/v0.1.1-beta.3/Blake.IDE_universal.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFI2V1haa1FrVEF2L0FwSXZYcjNmMVdsKzhRRTJzTk41RXRXcGpLNEVHZEUzT0UvTVhOUGZSWFE2NWxWM2RzUGlOcDNGM1BuYktLcEE0cklma093dEdZMXp1Vk13cVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDIyMzEzCWZpbGU6Qmxha2UgSURFLmFwcC50YXIuZ3oKanB2S2dWdHF0SCsza2lndDVYSGE1amRDNXpiMDcyUnBIQkFaVUE2SXY3L3ptNnhaMGUzTklMbmxWdmdNeU1Db0psUzhXQllKNzNJcGxZb1RVMzA4QUE9PQo=",
-      "url": "https://github.com/vfermino/blake-site/releases/download/v0.1.1-beta.2/Blake.IDE_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFI2V1haa1FrVEJKWlVzSGQ0bTBYMmNITXMwdmNqZ0p6NWQ4SzdTQllManR2b0FNbVBVaXZOcHVBNjI2S0tOWm1JOXcvQ2dnVjNSMVk4Q0MwemQ5dG1FdmI1NFBHbVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDI5MzQ4CWZpbGU6Qmxha2UgSURFLmFwcC50YXIuZ3oKQXh1TnZoTVVMNWxQcEpId0JTZzM4UkpJWXVvSVRlZm9JV2pydnJLZWRZcTBtOWcxeGlOa3NkcmJHSEQ5NTFVMmhxZUhaUFR4N2hORlJrOGJncXI5RHc9PQo=",
+      "url": "https://github.com/vfermino/blake-site/releases/download/v0.1.1-beta.3/Blake.IDE_universal.app.tar.gz"
     },
     "darwin-x86_64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFI2V1haa1FrVEF2L0FwSXZYcjNmMVdsKzhRRTJzTk41RXRXcGpLNEVHZEUzT0UvTVhOUGZSWFE2NWxWM2RzUGlOcDNGM1BuYktLcEE0cklma093dEdZMXp1Vk13cVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDIyMzEzCWZpbGU6Qmxha2UgSURFLmFwcC50YXIuZ3oKanB2S2dWdHF0SCsza2lndDVYSGE1amRDNXpiMDcyUnBIQkFaVUE2SXY3L3ptNnhaMGUzTklMbmxWdmdNeU1Db0psUzhXQllKNzNJcGxZb1RVMzA4QUE9PQo=",
-      "url": "https://github.com/vfermino/blake-site/releases/download/v0.1.1-beta.2/Blake.IDE_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFI2V1haa1FrVEJKWlVzSGQ0bTBYMmNITXMwdmNqZ0p6NWQ4SzdTQllManR2b0FNbVBVaXZOcHVBNjI2S0tOWm1JOXcvQ2dnVjNSMVk4Q0MwemQ5dG1FdmI1NFBHbVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDI5MzQ4CWZpbGU6Qmxha2UgSURFLmFwcC50YXIuZ3oKQXh1TnZoTVVMNWxQcEpId0JTZzM4UkpJWXVvSVRlZm9JV2pydnJLZWRZcTBtOWcxeGlOa3NkcmJHSEQ5NTFVMmhxZUhaUFR4N2hORlJrOGJncXI5RHc9PQo=",
+      "url": "https://github.com/vfermino/blake-site/releases/download/v0.1.1-beta.3/Blake.IDE_universal.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFI2V1haa1FrVEw5aGJHc01JYjF1TmV5a1o0bWtaTThsSGorcFV0UEpocHc4WTFQaGcrdDk4dFpXTERqRTROdTBsaUNpTWhTT1Y0NERWeVNFS053RUdYMjVzY1BET2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDIyNTYwCWZpbGU6Qmxha2UgSURFXzAuMS4xLWJldGEuMl9hbWQ2NC5BcHBJbWFnZQo1bGJMTTZvSHF3ZjRMUFFWOTN3aUdNS2duMlYwNFFYN0IzWWs5ZGE1TXVnbEQ1OUk3ZzNiT2NSOUJOUThDUGpNWWtpUi8zOUNuSi9WdE5WY3diUFJCdz09Cg==",
-      "url": "https://github.com/vfermino/blake-site/releases/download/v0.1.1-beta.2/Blake.IDE_0.1.1-beta.2_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFI2V1haa1FrVEpSclJzZXRnc0gzWmg1MExpUjFIWllTSmJmR0ZjbWRuV2l0VmgrQmVZY3ovMkZrbGgyR203U1lZcW85Sk13VTZRUXFpYlM0Z2tLTTc0VFNQVEZiRUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDI5NjM4CWZpbGU6Qmxha2UgSURFXzAuMS4xLWJldGEuM19hbWQ2NC5BcHBJbWFnZQptelhWeW1XSGp2M0s1TFdjT2V5TWFPRXJmRmhPQzdHVjYxSlRtbmtOcnVtV01uRkxSYVVrQlpnQ1F4TlYxbEpmdDI4bGhCV1A0dXBIZW8zY3BldWhEdz09Cg==",
+      "url": "https://github.com/vfermino/blake-site/releases/download/v0.1.1-beta.3/Blake.IDE_0.1.1-beta.3_amd64.AppImage"
     },
     "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFI2V1haa1FrVEw5aGJHc01JYjF1TmV5a1o0bWtaTThsSGorcFV0UEpocHc4WTFQaGcrdDk4dFpXTERqRTROdTBsaUNpTWhTT1Y0NERWeVNFS053RUdYMjVzY1BET2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDIyNTYwCWZpbGU6Qmxha2UgSURFXzAuMS4xLWJldGEuMl9hbWQ2NC5BcHBJbWFnZQo1bGJMTTZvSHF3ZjRMUFFWOTN3aUdNS2duMlYwNFFYN0IzWWs5ZGE1TXVnbEQ1OUk3ZzNiT2NSOUJOUThDUGpNWWtpUi8zOUNuSi9WdE5WY3diUFJCdz09Cg==",
-      "url": "https://github.com/vfermino/blake-site/releases/download/v0.1.1-beta.2/Blake.IDE_0.1.1-beta.2_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFI2V1haa1FrVEpSclJzZXRnc0gzWmg1MExpUjFIWllTSmJmR0ZjbWRuV2l0VmgrQmVZY3ovMkZrbGgyR203U1lZcW85Sk13VTZRUXFpYlM0Z2tLTTc0VFNQVEZiRUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDI5NjM4CWZpbGU6Qmxha2UgSURFXzAuMS4xLWJldGEuM19hbWQ2NC5BcHBJbWFnZQptelhWeW1XSGp2M0s1TFdjT2V5TWFPRXJmRmhPQzdHVjYxSlRtbmtOcnVtV01uRkxSYVVrQlpnQ1F4TlYxbEpmdDI4bGhCV1A0dXBIZW8zY3BldWhEdz09Cg==",
+      "url": "https://github.com/vfermino/blake-site/releases/download/v0.1.1-beta.3/Blake.IDE_0.1.1-beta.3_amd64.AppImage"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFI2V1haa1FrVEdiczdHMExRVTRBazFzcy9SQTJYK1BZS0JHQkZHLzFVdDhIQWxmb2V4cFdZTW5EOEhJQW9raExZZFJKQlJVNnlvNytZbXg2c0hXRVpISTREYlhaY0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDIyNTYwCWZpbGU6Qmxha2UgSURFXzAuMS4xLWJldGEuMl9hbWQ2NC5kZWIKVWpmK2lic0QwMEpJRVlnUG11VGRDOWZDR1JOSmlCZEJ1NWptNlkrUk8xQUlKYlJUT1RjeDEyUkVuMmNkSXY4ci9FN3FTemkwbUQvWHNkQ2hkVkFkRGc9PQo=",
-      "url": "https://github.com/vfermino/blake-site/releases/download/v0.1.1-beta.2/Blake.IDE_0.1.1-beta.2_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFI2V1haa1FrVEZQeFdJVHp1MVBsWHFXWGNXczV2aitWR2E3NFY5TS9UaVlsTlJQWVlIcDRLcDhYbEtRaGFOYjNZS1ZITWN1N2ovVG9zeVhZZ2RFSzhBTUFXeFV2N2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDI5NjM4CWZpbGU6Qmxha2UgSURFXzAuMS4xLWJldGEuM19hbWQ2NC5kZWIKM1JIMWUvVVNvVzBqays3SEFoTTNQdHZEdS90WmdGZ1F2amRRYmNaSXFRV3M0QmdvSEc4dWlEUTE2dnZIK2NockZBUzRWa1JKKzFPNjlMbXBWTWI4QXc9PQo=",
+      "url": "https://github.com/vfermino/blake-site/releases/download/v0.1.1-beta.3/Blake.IDE_0.1.1-beta.3_amd64.deb"
     },
     "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFI2V1haa1FrVEhrY3ZKcDRWeFlvK0ExdkZHcUxlc1AyMFRvSWxaa2ltRHZudmFicWFEb3JaSnplODRhWEFmT1g5czdFa3VTSHYzUVFsWmJhNWtHMVlEQmc5UjNVRmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDIyNTYwCWZpbGU6Qmxha2UgSURFLTAuMS4xLWJldGEuMi0xLng4Nl82NC5ycG0KRUFIeCtaSWlNTWtPdmRxd2tTMVhqSktOTnR6SklZN1dza0g4RThuWVlqS2VOWjhSdG1HTExXT2Q5dktZbXp1cWFZVUVqS1J6cm9iUlA5T0h2NjRNQUE9PQo=",
-      "url": "https://github.com/vfermino/blake-site/releases/download/v0.1.1-beta.2/Blake.IDE-0.1.1-beta.2-1.x86_64.rpm"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFI2V1haa1FrVFBPanFOQkdrY2MrQk5VRG43aXFrLzNDUGl6LzNCM3VpZSs1Tno2MFU1aXdvM0FLUDJ1NUNiTEpaclNXMzFYMjFiajV1R2xCdS9Ha0dWejRYUFIvNGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDI5NjM4CWZpbGU6Qmxha2UgSURFLTAuMS4xLWJldGEuMy0xLng4Nl82NC5ycG0KZmN3eVRuRkM5SjhvY2xOOUY5cWwxdFU4SzVQN25CY0M2aUM3VkhMb0Foai8vRCtRZi8xR2VCSlQ0eFJYamhLVzViRngxS3R1cGcvWElsd1FlVW16REE9PQo=",
+      "url": "https://github.com/vfermino/blake-site/releases/download/v0.1.1-beta.3/Blake.IDE-0.1.1-beta.3-1.x86_64.rpm"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFI2V1haa1FrVENkZWozQlJDZ1BZcDk3RnhhODMvVkJDQnFRY1EwWEpSclM3VzBhNGpCZi8vK0VQR0gvZWJRSmVlWjlNZ0lWUjdKTWFXNXQ3bXdpc2JHRXEzMHNncEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDIyNjYwCWZpbGU6Qmxha2UgSURFXzAuMS4xLWJldGEuMl94NjQtc2V0dXAuZXhlCnVLbEcyYWx1bzd6dFQ0V3lnMCtSYUlUTG85VFFpZVpOWE9pR0hmQ1NXNGE0a1VCa25WZmkxbk0zQjlycERIekVYbHliVnZycHRBeDU0eWhtbGhKd0RnPT0K",
-      "url": "https://github.com/vfermino/blake-site/releases/download/v0.1.1-beta.2/Blake.IDE_0.1.1-beta.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFI2V1haa1FrVEhEUU1UeWVlRXAyUjUxWlNqc25uYVpBVHlubVMvTmRRVExDTTFYaFZPRnhBeDQvVnZCVTJHWHVia3F4cXlBbXgwaHFSSFVPRE5nYnYxNGhIb2MzSXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDI5NzE0CWZpbGU6Qmxha2UgSURFXzAuMS4xLWJldGEuM194NjQtc2V0dXAuZXhlClJEdzNjSVFibS9LdWg0cDZ0U2s5a2hRTGEwb3JrT3lVVlUycWNjSU1sSGNaeHlzdEdMVHFHUlVLdlV6YU5yY3JjNHhnTDN3cFF2TGhtNmh5ZWVFZURnPT0K",
+      "url": "https://github.com/vfermino/blake-site/releases/download/v0.1.1-beta.3/Blake.IDE_0.1.1-beta.3_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFI2V1haa1FrVENkZWozQlJDZ1BZcDk3RnhhODMvVkJDQnFRY1EwWEpSclM3VzBhNGpCZi8vK0VQR0gvZWJRSmVlWjlNZ0lWUjdKTWFXNXQ3bXdpc2JHRXEzMHNncEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDIyNjYwCWZpbGU6Qmxha2UgSURFXzAuMS4xLWJldGEuMl94NjQtc2V0dXAuZXhlCnVLbEcyYWx1bzd6dFQ0V3lnMCtSYUlUTG85VFFpZVpOWE9pR0hmQ1NXNGE0a1VCa25WZmkxbk0zQjlycERIekVYbHliVnZycHRBeDU0eWhtbGhKd0RnPT0K",
-      "url": "https://github.com/vfermino/blake-site/releases/download/v0.1.1-beta.2/Blake.IDE_0.1.1-beta.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFI2V1haa1FrVEhEUU1UeWVlRXAyUjUxWlNqc25uYVpBVHlubVMvTmRRVExDTTFYaFZPRnhBeDQvVnZCVTJHWHVia3F4cXlBbXgwaHFSSFVPRE5nYnYxNGhIb2MzSXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDI5NzE0CWZpbGU6Qmxha2UgSURFXzAuMS4xLWJldGEuM194NjQtc2V0dXAuZXhlClJEdzNjSVFibS9LdWg0cDZ0U2s5a2hRTGEwb3JrT3lVVlUycWNjSU1sSGNaeHlzdEdMVHFHUlVLdlV6YU5yY3JjNHhnTDN3cFF2TGhtNmh5ZWVFZURnPT0K",
+      "url": "https://github.com/vfermino/blake-site/releases/download/v0.1.1-beta.3/Blake.IDE_0.1.1-beta.3_x64-setup.exe"
     }
   }
 }
